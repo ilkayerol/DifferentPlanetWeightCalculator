@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Unit Converter</string>
+    <string name="app_name">Weight on Planet Calculator</string>
+    <string name="tvTitle">How much do you weigh on the planets?</string>
+    <string name="hintYourWeight">How much do you weight on earth?</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="tvResult">RESULT</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.unitconverter
+package com.example.differentplanetweightcalculator
 
 import org.junit.Test
 
